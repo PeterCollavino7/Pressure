@@ -1,0 +1,19 @@
+{
+  "name": "Pressione – registro della pressione",
+  "short_name": "Pressione",
+  "description": "Registro personale delle misurazioni della pressione arteriale, con medie e grafici. I dati restano sul tuo dispositivo.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "it",
+  "dir": "ltr",
+  "background_color": "#f3f3f0",
+  "theme_color": "#f3f3f0",
+  "categories": ["health", "medical", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
